@@ -15,8 +15,6 @@ If %ERRORLEVEL% == 0 (
    SET AnsiConPath=%cwd%ansicon\x86\
 )
 
-echo %AnsiConPath%
-
 del CheckOS.txt
 del StringCheck.txt
 
